@@ -17,20 +17,20 @@ After the course, you will be able to manage the resources at scale, implement a
 
 ## Course Agenda
 1. Python automation examples
-- Reading and write files
-- Send emails
-- Regular Expression
-- Web scraping
-- Excel/Word/Pdf Operations
-- API Interact
-- GUI Automation
+  - Reading and write files
+  - Send emails
+  - Regular Expression
+  - Web scraping
+  - Excel/Word/Pdf Operations
+  - API Interact
+  - GUI Automation
 
 2. Git and Github
-- Git basic branches and merging
-- Github remote repository
-- Collaborate using Github
+  - Git basic branches and merging
+  - Github remote repository
+  - Collaborate using Github
 
 ## Instructor
-** Jason Zhang **
+**Jason Zhang**
 _Data Enthusiatst_
 
