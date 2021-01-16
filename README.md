@@ -32,5 +32,6 @@ After the course, you will be able to manage the resources at scale, implement a
 
 ## Instructor
 **Jason Zhang**
+
 _Data Enthusiatst_
 
